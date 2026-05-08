@@ -1,3 +1,6 @@
+Wael Mamdouh
+
+
 Role: Cloud Support & CloudOps Engineer Skills: AWS (EC2, S3, Lambda, VPC), Python, Terraform, CloudFormation, CloudWatch, IAM, SNS/SQS, CI/CD, Monitoring, Automation, Troubleshooting Portfolio: https://charles-bucher.github.io GitHub: https://github.com/charles-bucher
 
 Contributor Covenant Code of Conduct
