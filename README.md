@@ -1,3 +1,16 @@
+<!-- Profile Header -->
+<div id="header" align="center">
+  <h1>Hi there 👋, I'm <span style="color:#2E86C1;">Wael Mamdouh</span></h1>
+  <h3>🚀  IT Support Specialist</h3>
+</div>
+
+<!-- Profile Banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250" alt="coding animation"/>
+</div>
+
+---
+
 # Wael Mamdouh
 
 ## IT Support Services
